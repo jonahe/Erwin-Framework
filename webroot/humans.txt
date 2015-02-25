@@ -1,0 +1,1 @@
+Erwin is a PHP-boilerplate/framework for small websites. Erwin was built by Erik Wiberg as part of a course in web programming.
