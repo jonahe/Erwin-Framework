@@ -39,7 +39,7 @@ function dump($array) {
 }
 
 /**
- * Som ovan fast tar en array/variabel och ger tillbaka en sträng med innehållet i variabeln. Redo att skriva ut, t.ex via echo. 
+ * Som ovan fast tar en array/variabel och ger tillbaka en sträng med innehållet i variabeln. Redo att skriva ut, t.ex via echo: echo "variabeln är" . dumpAsString($variabel); 
  *
  */
 function dumpAsString($array) {
